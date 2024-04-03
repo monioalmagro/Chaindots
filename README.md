@@ -31,7 +31,7 @@ source venv/bin/activate
 3. **Instalar las dependencias del proyecto:**
 
 ```bash
-pip install -r requeriments.txt
+pip install -r requirements.txt
 ```
 
 4. **Aplicar las migraciones de la base de datos:**
@@ -76,14 +76,13 @@ python manage.py migrate
 3. Carga los datos necesarios para las pruebas(unica vez):
 
 ```bash
-python manage.py loaddata Comment.json
-python manage.py loaddata User.json
-python manage.py loaddata Post.json
+python manage.py loaddata tests/fixtures/json/User.json
+python manage.py loaddata tests/fixtures/json/Post.json
+python manage.py loaddata tests/fixtures/json/Comment.json
 ```
 
-4. Importa la colección de Postman `Chaindots.postman_collection.json`.
 
-5. correr los tests
+4. correr los tests
 
 ```bash
 python manage.py pytest
