@@ -1,0 +1,239 @@
+[
+    {
+        "model": "user.user",
+        "pk": 1,
+        "fields": {
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-03-28T20:52:32.492Z",
+            "email": "emazzurque@gmail.com",
+            "username": "Emiliano",
+            "password": "Almagro4866",
+            "groups": [],
+            "user_permissions": [],
+            "followers": [
+                2,
+                3
+            ]
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 2,
+        "fields": {
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-03-28T21:23:51.810Z",
+            "email": "maxwell.willis@email.com",
+            "username": "bookworm_88",
+            "password": "PurpleBanana7*",
+            "groups": [],
+            "user_permissions": [],
+            "followers": [
+                1
+            ]
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 3,
+        "fields": {
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-03-28T21:27:23.348Z",
+            "email": "sarahjane87@email.com",
+            "username": "coolguy123",
+            "password": "P@ssw0rd!23",
+            "groups": [],
+            "user_permissions": [],
+            "followers": [
+                2
+            ]
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 4,
+        "fields": {
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-03-28T21:55:42.656Z",
+            "email": "jupiter@sistemsolar.com",
+            "username": "",
+            "password": "",
+            "groups": [],
+            "user_permissions": [],
+            "followers": []
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 5,
+        "fields": {
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-03-28T22:17:53.656Z",
+            "email": "neptuno@sistemsolar.com",
+            "username": "pedro",
+            "password": "",
+            "groups": [],
+            "user_permissions": [],
+            "followers": []
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 6,
+        "fields": {
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-04-02T13:37:05.984Z",
+            "email": "test@example.com",
+            "username": "test_user",
+            "password": "",
+            "groups": [],
+            "user_permissions": [],
+            "followers": []
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 7,
+        "fields": {
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-04-02T13:39:35.355Z",
+            "email": "test_@example.com",
+            "username": "test_user_example",
+            "password": "",
+            "groups": [],
+            "user_permissions": [],
+            "followers": []
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 8,
+        "fields": {
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-04-02T13:45:53.973Z",
+            "email": "test_@example----.com",
+            "username": "Cuatemo_Perez--33",
+            "password": "",
+            "groups": [],
+            "user_permissions": [],
+            "followers": []
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 9,
+        "fields": {
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-04-02T13:48:14.262Z",
+            "email": "test_@example_.com",
+            "username": "Cuatemo_Perez--343",
+            "password": "",
+            "groups": [],
+            "user_permissions": [],
+            "followers": [
+                8
+            ]
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 10,
+        "fields": {
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-04-02T13:51:33.616Z",
+            "email": "test1_@example_.com",
+            "username": "Cuatemo_Perez-343",
+            "password": "",
+            "groups": [],
+            "user_permissions": [],
+            "followers": []
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 11,
+        "fields": {
+            "last_login": null,
+            "is_superuser": false,
+            "first_name": "",
+            "last_name": "",
+            "is_staff": false,
+            "is_active": true,
+            "date_joined": "2024-04-03T00:46:29.294Z",
+            "email": "Mercusrio@sistemsolar.com",
+            "username": "Mercurio",
+            "password": "",
+            "groups": [],
+            "user_permissions": [],
+            "followers": []
+        }
+    },
+    {
+        "model": "user.user",
+        "pk": 12,
+        "fields": {
+            "last_login": "2024-04-03T05:19:00.489Z",
+            "is_superuser": true,
+            "first_name": "",
+            "last_name": "",
+            "is_staff": true,
+            "is_active": true,
+            "date_joined": "2024-04-03T05:18:47.347Z",
+            "email": "almagro@almagro.com",
+            "username": "almagro",
+            "password": "pbkdf2_sha256$720000$XdQPRd1nQwVvn5P08dmMW2$fkGI6XkBBSz1d2SHuB/3XCSNCRODU3L2Gjo7UbbhSmc=",
+            "groups": [],
+            "user_permissions": [],
+            "followers": []
+        }
+    }
+]
